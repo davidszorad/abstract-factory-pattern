@@ -1,0 +1,9 @@
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp1.1\AbstractFactoryPattern.deps.json
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp1.1\AbstractFactoryPattern.runtimeconfig.json
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp1.1\AbstractFactoryPattern.runtimeconfig.dev.json
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp1.1\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp1.1\AbstractFactoryPattern.AssemblyInfo.cs
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp1.1\AbstractFactoryPattern.dll
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\netcoreapp1.1\AbstractFactoryPattern.pdb
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp1.1\AbstractFactoryPattern.dll
+C:\david\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\netcoreapp1.1\AbstractFactoryPattern.pdb
